@@ -1,2 +1,0 @@
-# Android_Application_Development_With_Kotlin_SMARTBRIDGE_20BCE11111_Anshuman_Tiwari
-This Repository is for the projects and assignment of Android Application Development With Kotlin Course provided by SMARTBRIDGE
